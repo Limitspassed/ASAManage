@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="ASAManager.TabTemplate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="602.04" Width="1630">
+    <Grid>
+        <Button x:Name="button" Content="Button" Margin="10,10,1318,514"/>
+
+
+    </Grid>
+</UserControl>
